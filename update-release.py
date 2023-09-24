@@ -99,4 +99,4 @@ def main(channel="stable"):
 
 if __name__ == "__main__":
     # You could replace 'stable' with another channel if needed.
-    main(channel="stable")
+    main(channel="edge")
